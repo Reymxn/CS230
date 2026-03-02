@@ -1,5 +1,4 @@
-# CS230
-CS-230 Module Eight Journal – Reflection
+#CS-230 Module Eight Journal – Reflection
 1. Briefly summarize The Gaming Room client and their software requirements.
 
 The client for this project was The Gaming Room, a company that wanted to expand their existing game, Draw It or Lose It, into a web-based application that could support multiple teams and players across different platforms. Their primary requirement was a software design that allowed scalability, uniqueness of game instances, and cross-platform compatibility. The system needed to support multiple users simultaneously while maintaining consistent performance and reliability. The design focused on creating a structured architecture that would allow future growth and efficient game management.
